@@ -5,6 +5,11 @@
   "scripts": {
     "start": "node ./bin/www"
   },
+  "description":"Building a todo list web application with DocumentDB and Node.JS"
+  "author":{
+    "name":"praveen kumar gogula",
+    "email":"pgogula@miraclesoft.com"
+},
   "dependencies": {
     "async": "^0.9.0",
     "body-parser": "~1.12.0",
