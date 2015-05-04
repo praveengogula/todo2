@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "description":"Building a todo list web application with DocumentDB and Node.JS"
-  "author":{
+  "author": {
     "name":"praveen kumar gogula",
     "email":"pgogula@miraclesoft.com"
 },
